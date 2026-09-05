@@ -12,6 +12,7 @@ WARNING: Although this merely sends a request to an active API, without involvin
 Follow xmiguelrjx on GitHub and spread the word.
 
 Repository: https://github.com/xmiguelrjx/Script-to-get-Discord-HypeSquad-even-after-the-program-has-ended.
+
 Profile: https://github.com/xmiguelrjx
 
 
